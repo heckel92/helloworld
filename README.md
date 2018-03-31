@@ -9,7 +9,7 @@ mon premier projet github
 
 ## premier ajout d'un paragraphe
 ceci est un premier test pour ajouter un **paragraphe** a mon texte
-le but est de voir comment github permet de gerer les modifications
+le but est de voir comment github permet de gerer les _modifications_
 et de comprendre la gestions des versions dans les branches
 
 ```
